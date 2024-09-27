@@ -1,0 +1,4 @@
+baseURL = 'https://stu.systems/'
+languageCode = 'en-us'
+title = 'Stu Rides Bikes (and does other stuff)'
+theme = 'ananke'
