@@ -4,6 +4,7 @@ date = 2024-09-30T17:08:12-05:00
 draft = false
 featured_image = "deck.jpg"
 author = "Stu"
+tags = ["deck project", "diy", "home improvement"]
 +++
 
 Cohost is going away and I'm pretty bummed about it! I suppose the only thing to do is to march forward bravely into this new future of blogging on my own dang website.
