@@ -7,6 +7,8 @@ author = "Stu"
 tags = ["diy", "home improvement", "deck project"]
 +++
 
+![photo a newly painted decking with rough concrete paint](deck-painted.jpg)
+
 We finished the painting! Two coats of 'deck resurfacing paint' and it looks a little less messed up and is hopefully protected a bit better. Obviously with the level of damage there's only so much I want to invest but I think it's an improvement. I think a third coat could potential fill in some of those small cracks even more but whatever.
 
 Next steps for the next week or so:
