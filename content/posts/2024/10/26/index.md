@@ -1,5 +1,5 @@
 +++
-title = 'I've been playing factorio'
+title = 'I have been playing factorio'
 date = 2024-10-28T23:07:17-05:00
 draft = false
 author = "Stu"
